@@ -34,7 +34,7 @@ def get_command():
             return "None"
     return cm
 
-NAME = "parsa"
+NAME = ""
 def welcome():
     hour = datetime.datetime.now().hour
     if 0<= hour<= 12:
@@ -60,7 +60,7 @@ def welcome():
     speak(f'Welcome {NAME}, let start')
 
 
-# welcome()
+welcome()
 
 while True:
     print('How can I help you?')
