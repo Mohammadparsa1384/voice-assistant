@@ -2,7 +2,8 @@
 # This is voice assitant
 At first install library:
 <h1>pip install -r requirements.txt</h1> 
-Options:
+Options:<br>
+<h3>
 1. Tell Bye or stop for stop project<br>
 2. Tell "wikipedia for search in wikipedia"<br>
 3. Tell "youtube" to open youtube<br>
@@ -14,3 +15,4 @@ Options:
 9. Tell "note" to write note in txt file<br>
 10. Tell "Show note" to show note of txt file<br>
 11. Tell "Telegram" to open telegram in Desktop<br>
+</h3>
